@@ -25,10 +25,10 @@ cd ../Proyecto_Python_Streamlit
 # Ejecutar 
 https://proyecto-simce.streamlit.app/
 
-Autores: (GitHub)
-LSalvoGodoy 
-CRiquelmeMillavil
-ExequielOlivares
+# Autores: (GitHub)
+* LSalvoGodoy 
+* CRiquelmeMillavil
+* ExequielOlivares
 
 Estado del proyecto: Terminado
 
